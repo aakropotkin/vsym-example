@@ -1,0 +1,6 @@
+libfoo.o
+libfoo.so
+main
+libwrap.o
+libwrap.so
+main-w

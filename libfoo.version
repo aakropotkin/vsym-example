@@ -1,0 +1,2 @@
+FOO_1.0 { global: foo; };
+FOO_2.0 { global: foo; };

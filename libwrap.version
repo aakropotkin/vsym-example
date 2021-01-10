@@ -1,0 +1,4 @@
+WRAPPER_1.0 {
+  global: foo;
+  local: *;
+};
